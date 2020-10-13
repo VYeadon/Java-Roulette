@@ -13,7 +13,7 @@
 		<!-- test -->
         <dropwizard.version>0.8.0</dropwizard.version>
         <jacksonscala.version>2.5.1</jacksonscala.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
